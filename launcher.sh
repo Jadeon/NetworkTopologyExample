@@ -1,0 +1,1 @@
+cd ./peer1/ ; sh peer.sh
